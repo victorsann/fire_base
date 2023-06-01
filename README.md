@@ -2,8 +2,7 @@
   <img src="">
 </div>
 <br>
-<!-- <img src="https://img.shields.io/static/v1?label=firebase&message=s&color=yellow&style=for-the-badge&logo=Firebase"/> -->
 
-<img src="https://img.shields.io/badge/Firebase-039BE5?&color=black&style=for-the-badge&logo=Firebase&Color=black"/>
+<img src="https://img.shields.io/badge/Firebase-F6C915?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 <h1>Google Analytics</h1>

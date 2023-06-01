@@ -31,6 +31,6 @@ O Analytics automaticamente registra alguns [events](https://support.google.com/
 
 <h3>Adicione o Analytics ao seu app</h3>
 
-1.  Da raiz do seu app Flutter, execute o seguinte comando para instalar o plugin:
+1. Da raiz do seu app Flutter, execute o seguinte comando para instalar o plugin:
 
-        flutter pub add firebase_analytics
+   flutter pub add firebase_analytics

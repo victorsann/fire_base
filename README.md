@@ -26,7 +26,11 @@ O Analytics automaticamente registra alguns [events](https://support.google.com/
 
 <h3>Antes de iniciar</h3>
 
-- 1. instale '''[firebase_core](https://firebase.google.com/docs/flutter/setup)''' e adicione o código de inicialização ao seu app se não o tiver feito.
-- 2. Adicione seu app a um projeto no [Firebase Console](https://console.firebase.google.com/?_gl=1*1etj5gf*_ga*MTUwMzYzMzQ2OS4xNjU2OTYwMDM2*_ga_CW55HF8NVT*MTY4NTYyNzAzOS4xMy4xLjE2ODU2MzA4ODYuMC4wLjA.)
+- Instale [firebase_core](https://firebase.google.com/docs/flutter/setup) e adicione o código de inicialização ao seu app se não o tiver feito.
+- Adicione seu app a um projeto no [Firebase Console](https://console.firebase.google.com/?_gl=1*1etj5gf*_ga*MTUwMzYzMzQ2OS4xNjU2OTYwMDM2*_ga_CW55HF8NVT*MTY4NTYyNzAzOS4xMy4xLjE2ODU2MzA4ODYuMC4wLjA.)
 
 <h3>Adicione o Analytics ao seu app</h3>
+
+1. Da raiz do seu app Flutter, execute o seguinte comando para instalar o plugin:
+
+> flutter pub add firebase_analytics

@@ -34,3 +34,15 @@ O Analytics automaticamente registra alguns [events](https://support.google.com/
 1 - Da raiz do seu app Flutter, execute o seguinte comando para instalar o plugin:
 
     flutter pub add firebase_analytics
+
+2 - Uma vez que o pluging foi instalado, faça um rebuild da aplicação:
+
+    flutter run
+
+3 - Uma vez instalado é possível acessar o `firebase_analytics` ao importa-lo da seguinte forma:
+
+    import 'package:firebase_analytics/firebase_analytics.dart';
+
+4 - Para iniciar seu uso, crie uma instância do Firebase Analytics chamando o getter `instance` no `FirebaseAnalytics`:
+
+    FirebaseAnalytics analytics = FirebaseAnalytics.instance;
